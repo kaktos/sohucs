@@ -1,3 +1,3 @@
 # SOHU Cloud API
 
-*only implement sohu cloud storage api now*
+*only implemented Sohu Cloud Storage api now*
